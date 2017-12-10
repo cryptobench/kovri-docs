@@ -38,7 +38,7 @@ Følgende er en foreslået model for QA-workflow. Selvom det er lineært i natur
 ## Fase 4: Bug squashing / Teste / Profilering
 
 - Løsning af prioriterede fejl / problemer
-- Skriv enhedsprøvningstest for hvert modul
+- Skriv 'enheds-test' teste for hvert modul
   - Kør teste. Kør dem igen
   - Fuld gennemgang af testresultater. Patch hvis det er nødvendigt. Refactoring efter behov
 - Sørg for, at automation kører regelmæssigt
