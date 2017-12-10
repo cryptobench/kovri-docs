@@ -22,7 +22,7 @@ $ cd kovri/ && cpplint src/path/to/my/file && [edit file manually to apply fixes
   
   ## Her er hvad der ikke bliver fanget af clang-format på nuværende tidspunkt og adskiller sig fra Google's foreslået C++ style
   
-  - %
+  - Undgå at blande store og små bogstaver i k og MARCO_TYPE for alle konstanter
   - Brug doxygen Tre-slash ```/// C++ comments``` når du dokumenterer Doxygen
   - Prøv at dokumentere alt dit arbejde Doxygen 
   - Hvis anonymitet er et problem, prøv at snige dig ind med en nuværende bidragyderes stil
